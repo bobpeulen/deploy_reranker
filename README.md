@@ -25,7 +25,7 @@
 16.	The page as shown in the screenshot below should appear
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
-## Task 4: Clone Repository and run notebook
+## Task 2: Clone Repository and run notebook
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
