@@ -29,10 +29,10 @@
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
-3. Add https://github.com/bobpeulen/rug_2024_workshop.git
-4. Click **Clone**. A new, **rug\_2024\_workshop** repository should appear in the directory on the left
-5. Step inside the **rug\_2024\_workshop** folder
-6. Open the notebook: **gen\_ai\_langchain\_faiss.ipynb**
+3. Add https://github.com/bobpeulen/deploy_reranker.git
+4. Click **Clone**. A new, **deploy\_raranker** repository should appear in the directory on the left
+5. Step inside the new folder
+6. Open the notebook: **deploy\_rerank\_model.ipynb**
 7. When prompted for **Select Kernel**, just click on **Select**
 8. Follow the steps in the notebook closely.
    
@@ -41,4 +41,4 @@
 
 ## Acknowledgements
 * [Bob Peulen](https://www.linkedin.com/in/bobpeulen/)
-* **Last Updated By/Date** - Bob Peulen, April 2024
+* **Last Updated By/Date** - Bob Peulen, May 2024
